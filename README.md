@@ -1,8 +1,8 @@
-Hello! I'm a recent grad of Juno College's Development Immersive Bootcamp, based in Toronto, ON and available for work! 
+Hello! 👋 I'm Dave (he/him), a Front End Developer based in Toronto and available for work! 🚀
 
-Currently continuing to build on my experience with React through fun projects and always looking to connect, so say hi!
+I recently copleted Juno College's web development immersive bootcamp and I'm currently continuing to build on my experience with React through fun personal projects. I'm always looking to connect with others, so say hi! 
 
-
+🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮🌮
 <!--
 **hidavehenry/hidavehenry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
